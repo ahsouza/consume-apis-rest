@@ -12,6 +12,10 @@ If you use https, use this instead
 
 `git clone https://github.com/ahsouza/consume-apis-rest.git`
 
+Get the directory on football-api
+
+`/consume-apis-rest/football-api`
+
 Run the command below to install NPM dependencies
 
 `npm install`
