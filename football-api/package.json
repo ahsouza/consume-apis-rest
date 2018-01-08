@@ -1,0 +1,31 @@
+{
+  "name": "football-api",
+  "version": "1.0.0",
+  "description": "A sample app that demonstrates how to consume football-data RESTful API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammezie/serie-a-standings.git"
+  },
+  "keywords": [
+    "futebol-dados",
+    "restful",
+    "api",
+    "nodejs"
+  ],
+  "author": "AHS",
+  "license": "MIT",
+  "homepage": "https://github.com/ammezie/serie-a-standings#readme",
+  "dependencies": {
+    "googleapis": "^23.0.0",
+    "handlebars": "^4.0.6",
+    "hapi": "^16.0.2",
+    "lodash.filter": "^4.6.0",
+    "lodash.take": "^4.1.1",
+    "request": "^2.79.0",
+    "vision": "^4.1.1"
+  }
+}
