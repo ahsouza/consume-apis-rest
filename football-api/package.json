@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ammezie/serie-a-standings.git"
+    "url": "git+https://github.com/ahsouza/consume-apis-rest.git"
+
   },
   "keywords": [
     "futebol-dados",
@@ -18,7 +19,7 @@
   ],
   "author": "AHS",
   "license": "MIT",
-  "homepage": "https://github.com/ammezie/serie-a-standings#readme",
+  "homepage": "https://github.com/ahsouza/consume-apis-rest#readme",
   "dependencies": {
     "googleapis": "^23.0.0",
     "handlebars": "^4.0.6",
