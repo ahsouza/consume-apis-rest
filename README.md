@@ -1,4 +1,4 @@
-# Simple examples of how to consume APIs REST with Node.js &nbsp;[![Build Status](https://nodejs.org/en/)]
+# Simple examples of how to consume APIs REST with [Node.js](https://nodejs.org/en/)
 
 ---
 ---
@@ -13,7 +13,6 @@ An example of this arrangement is REST-based interactions all communicate their 
 
 
 [*fonte*](https://goo.gl/YeqNGp)
-
 
 
 ## Get Started
