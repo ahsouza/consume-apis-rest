@@ -25,3 +25,5 @@ And
 `npm start`
 
 to start the app and visit [http://127.0.0.1:3000/](http://127.0.0.1:3000/) to see the app in action.
+
+[ahsouza/consume-apis-rest](https://github.com/ahsouza/consume-apis-rest#readme)
