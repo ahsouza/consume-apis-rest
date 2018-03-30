@@ -12,7 +12,7 @@ A primary benefit of using REST, both from a client and server's perspective, is
 An example of this arrangement is REST-based interactions all communicate their status using standard HTTP status codes. So, a 404 means a requested resource wasn't found; a 401 code means the request wasn't authorized; a 200 code means everything is OK; and a 500 means there was an unrecoverable application error on the server.
 
 
-[*fonte*](https://goo.gl/YeqNGp)
+[*font*](https://goo.gl/YeqNGp)
 
 
 ## Get Started
