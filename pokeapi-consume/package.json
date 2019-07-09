@@ -1,7 +1,7 @@
 {
   "name": "node-pokeapi-consume",
   "version": "1.0.0",
-  "description": "Simples demonstração",
+  "description": "Simple example",
   "main": "api.js",
   "scripts": {
     "start": "node server.js"
