@@ -21,7 +21,7 @@
   "license": "MIT",
   "homepage": "https://github.com/ahsouza/consume-apis-rest#readme",
   "dependencies": {
-    "googleapis": "^23.0.0",
+    "googleapis": "^59.0.0",
     "handlebars": "^4.0.6",
     "hapi": "^16.0.2",
     "lodash.filter": "^4.6.0",
