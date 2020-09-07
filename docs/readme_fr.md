@@ -6,10 +6,10 @@
   Suivons cet exemple pour montrer comment consommer le repos d'API à l'aide de Node.js</p>
  </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+    <a href="https://github.com/ahsouza/github-readme-stats/actions">
       <img alt="GitHub issues" src="https://img.shields.io/github/issues/ahsouza/consume-apis-rest">
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+    <a href="https://codecov.io/gh/ahsouza/github-readme-stats">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ahsouza/consume-apis-rest">
     </a>
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
@@ -54,5 +54,5 @@ Un exemple de cet arrangement est que les interactions basées sur REST communiq
 
 ## Commencer
 
-- [Poke-API with Node.js](https://goo.gl/uzErMv)
-- [Football-Data.org API with Hapi.js](https://goo.gl/Mb7iAK)
+- [Poke-API avec Node.js](https://goo.gl/uzErMv)
+- [API Football-Data.org avec Hapi.js](https://goo.gl/Mb7iAK)
