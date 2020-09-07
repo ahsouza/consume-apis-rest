@@ -39,7 +39,7 @@
   </p>
 </p>
 
-### What is the API REST?
+### O que é API REST?
 
   **REST** (REpresentational State Transfer) é um estilo de arquitetura para o desenvolvimento de serviços da web. **REST** é popular devido à sua simplicidade e ao fato de que ele se baseia em sistemas existentes e recursos do **HTTP** da Internet para atingir seus objetivos, ao invés de criar novos padrões, estruturas e tecnologias.
 
